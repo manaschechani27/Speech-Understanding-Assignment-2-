@@ -1,0 +1,13 @@
+{
+  "task_4_1": {
+    "EER_LFCC_percent": 8.33,
+    "EER_CQCC_percent": 41.67,
+    "AUC_ROC": 0.9861,
+    "pass": true
+  },
+  "task_4_2": {
+    "minimum_flip_epsilon": 0.0006427848101265823,
+    "SNR_dB": 59.88999938964844,
+    "pass": true
+  }
+}

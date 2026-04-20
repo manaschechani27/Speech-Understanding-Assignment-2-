@@ -1,0 +1,28 @@
+{
+  "audio_duration": 600.0,
+  "total_frames": 29980,
+  "frame_resolution": "20ms",
+  "switches": [
+    {
+      "switch_at_sec": 90.2,
+      "from_lang": "Hindi",
+      "to_lang": "English"
+    },
+    {
+      "switch_at_sec": 119.92,
+      "from_lang": "English",
+      "to_lang": "Hindi"
+    },
+    {
+      "switch_at_sec": 239.84,
+      "from_lang": "Hindi",
+      "to_lang": "English"
+    },
+    {
+      "switch_at_sec": 269.82,
+      "from_lang": "English",
+      "to_lang": "Hindi"
+    }
+  ],
+  "total_switches": 4
+}

@@ -1,0 +1,246 @@
+{
+  "audio_file": "/content/drive/MyDrive/speech_pa2/data/original_segment.wav",
+  "total_duration_s": 600.0,
+  "n_gram_vocab_size": 150,
+  "technical_vocab_boosted": [
+    "digitization",
+    "phonetics",
+    "articulatory",
+    "acoustic",
+    "waveform",
+    "spectrograms",
+    "synthesis",
+    "fourier",
+    "transform",
+    "filtering",
+    "summation",
+    "extraction",
+    "fundamental",
+    "frequency",
+    "enhancement",
+    "clustering",
+    "gaussian",
+    "mixture",
+    "recognition",
+    "hmm",
+    "neural",
+    "dialogue",
+    "diarization",
+    "biometrics",
+    "deepfake",
+    "provenance",
+    "spatial",
+    "denoising",
+    "asr",
+    "nlu",
+    "synthetic",
+    "representation",
+    "algorithm",
+    "cepstrum",
+    "stochastic"
+  ],
+  "segments": [
+    {
+      "chunk_idx": 0,
+      "start_sec": 0,
+      "end_sec": 30,
+      "text": " मेरी आग के सामने जो चीज़े हैं, वो ही मुझे motivate करते रहती हैं, दूसरा, मेरी जिम्मेवारी मुझे दोड़ाती है, जो जिम्मेवारी देशवासों ने मुझे दी है, मुझे हमेशा लगता है, कि मैं पद पर मौज मस्ती करने के लिए नहीं आया, मेरी तरब से मैं पुरा प्रयास करूँगा, हो सकता है मैं दो काम न पर कर पाऊं, लेकिन मेरी प्रयास में कमी नहीं रहेगी,",
+      "language": "Hindi",
+      "ipa_text": "meːɾiː aːɡ keː saːməneː dʒoː tʃiːdʒə़eː ɦɛːn, ʋoː ɦiː mʊdʒʱeː ˈmoʊtəˌveɪt kəɾət̪eː ɾəɦət̪iː ɦɛːn, d̪uːsəɾaː, meːɾiː dʒɪmmeːʋaːɾiː mʊdʒʱeː d̪oːɖə़aːt̪iː ɦɛː, dʒoː dʒɪmmeːʋaːɾiː d̪eːʃəʋaːsoːn neː mʊdʒʱeː d̪iː ɦɛː, mʊdʒʱeː ɦəmeːʃaː ləɡət̪aː ɦɛː, kɪ mɛːn pəd̪ pəɾ mɔːdʒ məst̪iː kəɾəneː keː lɪeː nəɦiːn aːjaː, meːɾiː t̪əɾəb seː mɛːn pʊɾaː pɾəjaːs kəɾuːँɡaː, ɦoː səkət̪aː ɦɛː mɛːn d̪oː kaːm n pəɾ kəɾ paːuːn, leːkɪn meːɾiː pɾəjaːs meːn kəmiː nəɦiːn ɾəɦeːɡiː,",
+      "maithili_translation": "मेरी आग के सामने जो चीज़े हैं वो ही मुझे प्रेरित करना (prerit karna) करते रहती हैं दूसरा मेरी responsibility मुझे दोड़ाती है जो responsibility देशवासों ने मुझे दी है मुझे हमेशा लगता है कि मैं पद पर मौज मस्ती करने के लिए नहीं आया मेरी तरब से मैं पुरा effort करूँगा हो सकता है मैं दो काम न पर कर पाऊं लेकिन मेरी effort में कमी नहीं रहेगी"
+    },
+    {
+      "chunk_idx": 1,
+      "start_sec": 30,
+      "end_sec": 60,
+      "text": " नहीं रहेगी और मैं जब 14 में चुनाव लड़ रहा था तब मैंने पहले जब गुजरात में था तब भी मैंने लोगों के सामने रखा था और यहां आया तो यहां भी कहा था मैंने कहा मैं देशवासियों को वादा करता कि मैं कभी भी परिश्रम करने में पीछे नहीं रहूंगा दूसरा मैं कहता था कि मैं बद इरादे से कोई काम नहीं करूंगा",
+      "language": "Hindi",
+      "ipa_text": "nəɦiːn ɾəɦeːɡiː ɔːɾ mɛːn dʒəb 14 meːn tʃʊnaːʋ ləɖə़ ɾəɦaː t̪ʰaː t̪əb mɛːnneː pəɦəleː dʒəb ɡʊdʒəɾaːt̪ meːn t̪ʰaː t̪əb bʱiː mɛːnneː loːɡoːn keː saːməneː ɾəkʰaː t̪ʰaː ɔːɾ jəɦaːn aːjaː t̪oː jəɦaːn bʱiː kəɦaː t̪ʰaː mɛːnneː kəɦaː mɛːn d̪eːʃəʋaːsɪjoːn koː ʋaːd̪aː kəɾət̪aː kɪ mɛːn kəbʱiː bʱiː pəɾɪʃɾəm kəɾəneː meːn piːtʃʰeː nəɦiːn ɾəɦuːnɡaː d̪uːsəɾaː mɛːn kəɦət̪aː t̪ʰaː kɪ mɛːn bəd̪ ɪɾaːd̪eː seː koːiː kaːm nəɦiːn kəɾuːnɡaː",
+      "maithili_translation": "नहीं रहेगी और मैं जब 14 में election लड़ रहा था तब मैंने पहले जब गुजरात में था तब भी मैंने लोगों के सामने रखा था और यहां आया तो यहां भी कहा था मैंने कहा मैं citizens को वादा करता कि मैं कभी भी hard work करने में पीछे नहीं रहूंगा दूसरा मैं कहता था कि मैं बद इरादे से कोई काम नहीं करूंगा"
+    },
+    {
+      "chunk_idx": 2,
+      "start_sec": 60,
+      "end_sec": 90,
+      "text": " और तीसरा मैं कहता था, मेरे लिए मैं कुछ नहीं करूँगा, आज मुझे 24 साल हो गए, इतने लंबे कालखंड से मैं, हेड अब दे गवर्मेंट के रूप में देशवासी ने मुझे काम दिया है, मेरे इन तीन कसोटियों पर मैंने अपने आपको तोल करके रखा हुआ है, और मैं उसको करता हूँ, तो मुझे मेरा एक इंस्पिरेशन, 1.4 बिलियन लोगों की सेवा,",
+      "language": "Hindi",
+      "ipa_text": "ɔːɾ t̪iːsəɾaː mɛːn kəɦət̪aː t̪ʰaː, meːɾeː lɪeː mɛːn kʊtʃʰ nəɦiːn kəɾuːँɡaː, aːdʒ mʊdʒʱeː 24 saːl ɦoː ɡəeː, ɪt̪əneː lənbeː kaːləkʰənɖ seː mɛːn, ɦeːɖ əb d̪eː ɡəʋəɾmeːnʈ keː ɾuːp meːn d̪eːʃəʋaːsiː neː mʊdʒʱeː kaːm d̪ɪjaː ɦɛː, meːɾeː ɪn t̪iːn kəsoːʈɪjoːn pəɾ mɛːnneː əpəneː aːpəkoː t̪oːl kəɾəkeː ɾəkʰaː ɦʊaː ɦɛː, ɔːɾ mɛːn ʊsəkoː kəɾət̪aː ɦuːँ, t̪oː mʊdʒʱeː meːɾaː eːk ɪnspɪɾeːʃənə, 1.4 bɪlɪjən loːɡoːn kiː seːʋaː,",
+      "maithili_translation": "और तीसरा मैं कहता था मेरे लिए मैं कुछ नहीं करूँगा आज मुझे 24 साल हो गए इतने लंबे कालखंड से मैं हेड अब दे गवर्मेंट के रूप में देशवासी ने मुझे काम दिया है मेरे इन तीन कसोटियों पर मैंने अपने आपको तोल करके रखा हुआ है और मैं उसको करता हूँ तो मुझे मेरा एक इंस्पिरेशन 1.4 बिलियन लोगों की सेवा"
+    },
+    {
+      "chunk_idx": 3,
+      "start_sec": 90,
+      "end_sec": 120,
+      "text": " As an engineer, as a person who loves mathematics, I have to ask. Srinivasa Ramanujan is an Indian mathematician. From a century ago, he's widely considered to be one of the greatest mathematicians of all time. Self-taught, grew up in poverty.",
+      "language": "English",
+      "ipa_text": "ɛz ən ˈɛnʤəˈnɪr ɛz ə ˈpərsən hu ləvz ˌmæθəˈmætɪks aɪ hæv tɪ æsk Srinivasa Ramanujan ɪz ən ˈɪndiən ˌmæθəməˈtɪʃən frəm ə ˈsɛnʧəri əˈgoʊ hes ˈwaɪdli kənˈsɪdərd tɪ bi wən əv ðə ˈgreɪtəst ˌmæθəməˈtɪʃənz əv ɔl taɪm Selftaught gru əp ɪn ˈpɑvərti",
+      "maithili_translation": "As an अभियंता (abhiyanta) as a person who loves गणित (ganit) I have to ask Srinivasa Ramanujan is an Indian mathematician From a सदी (sadi) ago he's widely considered to be one of the greatest mathematicians of all time Self-taught grew up in गरीबी (garibi)"
+    },
+    {
+      "chunk_idx": 4,
+      "start_sec": 120,
+      "end_sec": 150,
+      "text": " him? What do you find inspiring about him?",
+      "language": "Hindi",
+      "ipa_text": "ɪm wət du ju faɪnd ˌɪnˈspaɪərɪŋ əˈbaʊt ɪm",
+      "maithili_translation": "him What do you find inspiring about him"
+    },
+    {
+      "chunk_idx": 5,
+      "start_sec": 150,
+      "end_sec": 180,
+      "text": " अगर थोड़ा सा भी देखें तो वो spiritually advanced भी होते हैं, उसे cut off नहीं होते हैं, स्री निवास रमानुजम कहते थे कि उन्हें mathematical ideas उद्देवी से आते हैं, जिसकी वो पूजा करते हैं, यहने ideas तपस्या से आते हैं, और तपस्या सिर्फ hard work नहीं है, एक तरह से किसी एक काम के लिए",
+      "language": "Hindi",
+      "ipa_text": "əɡəɾ t̪ʰoːɖə़aː saː bʱiː d̪eːkʰeːn t̪oː ʋoː ˈspɪrɪˌʧuəˌli ədˈvænst bʱiː ɦoːt̪eː ɦɛːn, ʊseː kət ɔf nəɦiːn ɦoːt̪eː ɦɛːn, sɾiː nɪʋaːs ɾəmaːnʊdʒəm kəɦət̪eː t̪ʰeː kɪ ʊnɦeːn ˌmæθəˈmætɪkəl aɪˈdiəz ʊd̪d̪eːʋiː seː aːt̪eː ɦɛːn, dʒɪsəkiː ʋoː puːdʒaː kəɾət̪eː ɦɛːn, jəɦəneː aɪˈdiəz t̪əpəsjaː seː aːt̪eː ɦɛːn, ɔːɾ t̪əpəsjaː sɪɾpʰ hɑrd wərk nəɦiːn ɦɛː, eːk t̪əɾəɦ seː kɪsiː eːk kaːm keː lɪeː",
+      "maithili_translation": "अगर थोड़ा सा भी देखें तो वो spiritually advanced भी होते हैं उसे cut off नहीं होते हैं स्री निवास रमानुजम कहते थे कि उन्हें mathematical ideas उद्देवी से आते हैं जिसकी वो पूजा करते हैं यहने ideas penance/dedication से आते हैं और penance/dedication सिर्फ hard work नहीं है एक तरह से किसी एक काम के लिए"
+    },
+    {
+      "chunk_idx": 6,
+      "start_sec": 180,
+      "end_sec": 210,
+      "text": " दिवोट कर देना, खुद को खपा देना, स्वयम ही जैसे वो कार्य का रूप बन जाए, और हम knowledge के जितने ज़्यादा sources के लिए अपने open होंगे, हमारे पास उतने ही ज़्यादा ideas आएंगे, हमें information और knowledge के बीच में फर्क करना भी समझना चाहिए, करें कुछ लोग information को knowledge मानते हैं, और information का बहुत बड़ा",
+      "language": "Hindi",
+      "ipa_text": "d̪ɪʋoːʈ kəɾ d̪eːnaː, kʰʊd̪ koː kʰəpaː d̪eːnaː, sʋəjəm ɦiː dʒɛːseː ʋoː kaːɾj kaː ɾuːp bən dʒaːeː, ɔːɾ ɦəm ˈnɑlɪʤ keː dʒɪt̪əneː dʒə़jaːd̪aː ˈsɔrsəz keː lɪeː əpəneː ˈoʊpən ɦoːnɡeː, ɦəmaːɾeː paːs ʊt̪əneː ɦiː dʒə़jaːd̪aː aɪˈdiəz aːeːnɡeː, ɦəmeːn ˌɪnˌfɔrˈmeɪʃən ɔːɾ ˈnɑlɪʤ keː biːtʃ meːn pʰəɾk kəɾənaː bʱiː səmədʒʱənaː tʃaːɦɪeː, kəɾeːn kʊtʃʰ loːɡ ˌɪnˌfɔrˈmeɪʃən koː ˈnɑlɪʤ maːnət̪eː ɦɛːn, ɔːɾ ˌɪnˌfɔrˈmeɪʃən kaː bəɦʊt̪ bəɖə़aː",
+      "maithili_translation": "दिवोट कर देना खुद को खपा देना स्वयम ही जैसे वो कार्य का रूप बन जाए और हम knowledge के जितने ज़्यादा sources के लिए अपने open होंगे हमारे पास उतने ही ज़्यादा ideas आएंगे हमें information और knowledge के बीच में फर्क करना भी समझना चाहिए करें कुछ लोग information को knowledge मानते हैं और information का बहुत बड़ा"
+    },
+    {
+      "chunk_idx": 7,
+      "start_sec": 210,
+      "end_sec": 240,
+      "text": " You have a reputation for being a decisive leader. So can you walk me through on this topic of ideas, how you make decisions, what's your process?",
+      "language": "Hindi",
+      "ipa_text": "ju hæv ə ˌrɛpjəˈteɪʃən fər biɪŋ ə dɪˈsaɪsɪv ˈlidər soʊ kən ju wɔk mi θru ɔn ðɪs ˈtɑpɪk əv aɪˈdiəz haʊ ju meɪk dɪˈsɪʒənz wəts jʊr ˈprɔˌsɛs",
+      "maithili_translation": "You have a reputation for being a decisive leader So can you walk me through on this topic of ideas how you make decisions what's your process"
+    },
+    {
+      "chunk_idx": 8,
+      "start_sec": 240,
+      "end_sec": 270,
+      "text": " For instance, when facing a high-stakes choice with no clear precedence, a lot of uncertainty, having to balance input, how do you make decisions?",
+      "language": "English",
+      "ipa_text": "fər ˈɪnstəns wɪn ˈfeɪsɪŋ ə highstakes ʧɔɪs wɪθ noʊ klɪr ˈprɛsədəns ə lɔt əv ənˈsərtənti ˈhævɪŋ tɪ ˈbæləns ˈɪnˌpʊt haʊ du ju meɪk dɪˈsɪʒənz",
+      "maithili_translation": "For instance when facing a high-stakes choice with no clear precedence a lot of uncertainty having to balance input how do you make decisions"
+    },
+    {
+      "chunk_idx": 9,
+      "start_sec": 270,
+      "end_sec": 300,
+      "text": " मैं रात्री मुकाम कर चुका हूँ, मेरे पूर्व जीवन की मैं बात करता हूँ, मैं भ्रमन करता था, उससे जो मैंने पाया है, वो जो सिखा है, तो मेरे पास वो एक बहुत बड़ा चीजों को ग्रास्रूट लेवल पर स्थितियों के विशे में मेरी फर्स्टेड इंफर्मेशन है, किसी से पूछा हुआ, जाना हुआ, ऐसा किताबों के द्वारा नहीं पाया है,",
+      "language": "Hindi",
+      "ipa_text": "mɛːn ɾaːt̪ɾiː mʊkaːm kəɾ tʃʊkaː ɦuːँ, meːɾeː puːɾʋ dʒiːʋən kiː mɛːn baːt̪ kəɾət̪aː ɦuːँ, mɛːn bʱɾəmən kəɾət̪aː t̪ʰaː, ʊsəseː dʒoː mɛːnneː paːjaː ɦɛː, ʋoː dʒoː sɪkʰaː ɦɛː, t̪oː meːɾeː paːs ʋoː eːk bəɦʊt̪ bəɖə़aː tʃiːdʒoːn koː ɡɾaːsɾuːʈ leːʋəl pəɾ st̪ʰɪt̪ɪjoːn keː ʋɪʃeː meːn meːɾiː pʰəɾsʈeːɖ ɪnpʰəɾmeːʃən ɦɛː, kɪsiː seː puːtʃʰaː ɦʊaː, dʒaːnaː ɦʊaː, ɛːsaː kɪt̪aːboːn keː d̪ʋaːɾaː nəɦiːn paːjaː ɦɛː,",
+      "maithili_translation": "मैं रात्री मुकाम कर चुका हूँ मेरे पूर्व जीवन की मैं बात करता हूँ मैं भ्रमन करता था उससे जो मैंने पाया है वो जो सिखा है तो मेरे पास वो एक बहुत बड़ा चीजों को ग्रास्रूट लेवल पर स्थितियों के विशे में मेरी फर्स्टेड इंफर्मेशन है किसी से पूछा हुआ जाना हुआ ऐसा किताबों के द्वारा नहीं पाया है"
+    },
+    {
+      "chunk_idx": 10,
+      "start_sec": 300,
+      "end_sec": 330,
+      "text": " दूसरा, governance की दुर्ष्टि से देखें तो मुझे परेवर पास कोई प्रकार का baggage नहीं है, कि जिस baggage को लेकर कि मुझे दबे रहना है, उसके आगार पर मेरा चलना है, वो नहीं है, तीसरा, निर्णय करने में मेरा एक तरह जो है, मेरा देश सबसे पहले,",
+      "language": "Hindi",
+      "ipa_text": "d̪uːsəɾaː, ˈgəvərnəns kiː d̪ʊɾʂʈɪ seː d̪eːkʰeːn t̪oː mʊdʒʱeː pəɾeːʋəɾ paːs koːiː pɾəkaːɾ kaː ˈbægɪʤ nəɦiːn ɦɛː, kɪ dʒɪs ˈbægɪʤ koː leːkəɾ kɪ mʊdʒʱeː d̪əbeː ɾəɦənaː ɦɛː, ʊsəkeː aːɡaːɾ pəɾ meːɾaː tʃələnaː ɦɛː, ʋoː nəɦiːn ɦɛː, t̪iːsəɾaː, nɪɾणj kəɾəneː meːn meːɾaː eːk t̪əɾəɦ dʒoː ɦɛː, meːɾaː d̪eːʃ səbəseː pəɦəleː,",
+      "maithili_translation": "दूसरा शासन (shaasan) की दुर्ष्टि से देखें तो मुझे परेवर पास कोई प्रकार का बोझ (bojh) नहीं है कि जिस बोझ (bojh) को लेकर कि मुझे दबे रहना है उसके आगार पर मेरा चलना है वो नहीं है तीसरा decision करने में मेरा एक तरह जो है मेरा देश सबसे पहले"
+    },
+    {
+      "chunk_idx": 11,
+      "start_sec": 330,
+      "end_sec": 360,
+      "text": " नुक्षान तो नहीं हो रहा है, दूसरा हमारी या महत्मा गांधी कहते थे, कि तुम्हें कोई निर्णे करते समय कोई उल्जन हो, तो तुम किसी गरीपे चेहरा देख लो, इनको याद करो, और सोचो ये उसके काम आएगा क्या, तो आपका निर्णे सही होगा, मुझे वो मंत्र बहुत काम आता है, कि आप सामान्य मानवी को याद करो, कि आप मैं जो कर रहा हूँ, दूसरे प्रक्रिया जिसमा तक है,",
+      "language": "Hindi",
+      "ipa_text": "nʊkʂaːn t̪oː nəɦiːn ɦoː ɾəɦaː ɦɛː, d̪uːsəɾaː ɦəmaːɾiː jaː məɦət̪maː ɡaːnd̪ʱiː kəɦət̪eː t̪ʰeː, kɪ t̪ʊmɦeːn koːiː nɪɾणeː kəɾət̪eː səməj koːiː ʊldʒən ɦoː, t̪oː t̪ʊm kɪsiː ɡəɾiːpeː tʃeːɦəɾaː d̪eːkʰ loː, ɪnəkoː jaːd̪ kəɾoː, ɔːɾ soːtʃoː jeː ʊsəkeː kaːm aːeːɡaː kjaː, t̪oː aːpəkaː nɪɾणeː səɦiː ɦoːɡaː, mʊdʒʱeː ʋoː mənt̪ɾ bəɦʊt̪ kaːm aːt̪aː ɦɛː, kɪ aːp saːmaːnj maːnəʋiː koː jaːd̪ kəɾoː, kɪ aːp mɛːn dʒoː kəɾ ɾəɦaː ɦuːँ, d̪uːsəɾeː pɾəkɾɪjaː dʒɪsəmaː t̪ək ɦɛː,",
+      "maithili_translation": "नुक्षान तो नहीं हो रहा है दूसरा हमारी या महत्मा गांधी कहते थे कि तुम्हें कोई निर्णे करते समय कोई उल्जन हो तो तुम किसी गरीपे चेहरा देख लो इनको याद करो और सोचो ये उसके काम आएगा क्या तो आपका निर्णे सही होगा मुझे वो मंत्र बहुत काम आता है कि आप सामान्य मानवी को याद करो कि आप मैं जो कर रहा हूँ दूसरे प्रक्रिया जिसमा तक है"
+    },
+    {
+      "chunk_idx": 12,
+      "start_sec": 360,
+      "end_sec": 390,
+      "text": " मेरी सरकार में मेरे अफसरों को मेरे प्रते इर्शा भी होती होगी और उनको तकलीब भी होती होगी और वो है मेरे इंफर्मेशन चैनल बहुत है और बहुत लाइव है और इसलिए मुझे चीजों की जानकारियां बहुत सारी मिल जाती है और जगा से तो मुझे कोई आकर के ब्रीप करें",
+      "language": "Hindi",
+      "ipa_text": "meːɾiː səɾəkaːɾ meːn meːɾeː əpʰəsəɾoːn koː meːɾeː pɾət̪eː ɪɾʃaː bʱiː ɦoːt̪iː ɦoːɡiː ɔːɾ ʊnəkoː t̪əkəliːb bʱiː ɦoːt̪iː ɦoːɡiː ɔːɾ ʋoː ɦɛː meːɾeː ɪnpʰəɾmeːʃən tʃɛːnəl bəɦʊt̪ ɦɛː ɔːɾ bəɦʊt̪ laːɪʋ ɦɛː ɔːɾ ɪsəlɪeː mʊdʒʱeː tʃiːdʒoːn kiː dʒaːnəkaːɾɪjaːn bəɦʊt̪ saːɾiː mɪl dʒaːt̪iː ɦɛː ɔːɾ dʒəɡaː seː t̪oː mʊdʒʱeː koːiː aːkəɾ keː bɾiːp kəɾeːn",
+      "maithili_translation": "मेरी सरकार में मेरे अफसरों को मेरे प्रते इर्शा भी होती होगी और उनको तकलीब भी होती होगी और वो है मेरे इंफर्मेशन चैनल बहुत है और बहुत लाइव है और इसलिए मुझे चीजों की जानकारियां बहुत सारी मिल जाती है और जगा से तो मुझे कोई आकर के ब्रीप करें"
+    },
+    {
+      "chunk_idx": 13,
+      "start_sec": 390,
+      "end_sec": 420,
+      "text": " वो ही अकेली information नहीं होता है मेरे पास एक दूसरे पहलू भी होते हैं तो मैं दूसरा मैं एक मेरे में एक विद्यार्थी भाव है माल लीज़े कोई चिद नहीं आई मुझे किस एप्सन है कोई बताया तो मैं विद्यार्थी भाव से उसको पूछता हूँ अच्छा मुझे बताओ कैसे है फिर क्या है फिर कैसे है और कभी मेरे पास दूसरी information है तो मैं devil advocate बन करके उल्टे प्रश्न पूछता हूँ",
+      "language": "Hindi",
+      "ipa_text": "ʋoː ɦiː əkeːliː ˌɪnˌfɔrˈmeɪʃən nəɦiːn ɦoːt̪aː ɦɛː meːɾeː paːs eːk d̪uːsəɾeː pəɦəluː bʱiː ɦoːt̪eː ɦɛːn t̪oː mɛːn d̪uːsəɾaː mɛːn eːk meːɾeː meːn eːk ʋɪd̪jaːɾt̪ʰiː bʱaːʋ ɦɛː maːl liːdʒə़eː koːiː tʃɪd̪ nəɦiːn aːiː mʊdʒʱeː kɪs eːpsən ɦɛː koːiː bət̪aːjaː t̪oː mɛːn ʋɪd̪jaːɾt̪ʰiː bʱaːʋ seː ʊsəkoː puːtʃʰət̪aː ɦuːँ ətʃtʃʰaː mʊdʒʱeː bət̪aːoː kɛːseː ɦɛː pʰɪɾ kjaː ɦɛː pʰɪɾ kɛːseː ɦɛː ɔːɾ kəbʱiː meːɾeː paːs d̪uːsəɾiː ˌɪnˌfɔrˈmeɪʃən ɦɛː t̪oː mɛːn ˈdɛvəl ˈædvəˌkeɪt bən kəɾəkeː ʊlʈeː pɾəʃn puːtʃʰət̪aː ɦuːँ",
+      "maithili_translation": "वो ही अकेली information नहीं होता है मेरे पास एक दूसरे पहलू भी होते हैं तो मैं दूसरा मैं एक मेरे में एक विद्यार्थी भाव है माल लीज़े कोई चिद नहीं आई मुझे किस एप्सन है कोई बताया तो मैं विद्यार्थी भाव से उसको पूछता हूँ अच्छा मुझे बताओ कैसे है फिर क्या है फिर कैसे है और कभी मेरे पास दूसरी information है तो मैं devil advocate बन करके उल्टे प्रश्न पूछता हूँ"
+    },
+    {
+      "chunk_idx": 14,
+      "start_sec": 420,
+      "end_sec": 450,
+      "text": " उसको बहुत बारीकी से एक प्रकर्ट मंथन करना पड़ता है तो ऐसा करने से एक अमृत निकले है उस पर कहा कि मेरी कोशिश है दूसरा मैं जब निर्णाई लेता हूँ मुझे लगता है कि हाँ ये करने जाता है तो फिर मैं सहमना जो लोग हैं मेरे विचारों को उनको शेर करके हलके फुल के शब्दों में मैं डालता हूँ",
+      "language": "Hindi",
+      "ipa_text": "ʊsəkoː bəɦʊt̪ baːɾiːkiː seː eːk pɾəkəɾʈ mənt̪ʰən kəɾənaː pəɖə़t̪aː ɦɛː t̪oː ɛːsaː kəɾəneː seː eːk əməृt̪ nɪkəleː ɦɛː ʊs pəɾ kəɦaː kɪ meːɾiː koːʃɪʃ ɦɛː d̪uːsəɾaː mɛːn dʒəb nɪɾणaːiː leːt̪aː ɦuːँ mʊdʒʱeː ləɡət̪aː ɦɛː kɪ ɦaːँ jeː kəɾəneː dʒaːt̪aː ɦɛː t̪oː pʰɪɾ mɛːn səɦəmənaː dʒoː loːɡ ɦɛːn meːɾeː ʋɪtʃaːɾoːn koː ʊnəkoː ʃeːɾ kəɾəkeː ɦələkeː pʰʊl keː ʃəbd̪oːn meːn mɛːn ɖaːlət̪aː ɦuːँ",
+      "maithili_translation": "उसको बहुत बारीकी से एक प्रकर्ट brainstorming/churning करना पड़ता है तो ऐसा करने से एक nectar/pure outcome निकले है उस पर कहा कि मेरी कोशिश है दूसरा मैं जब निर्णाई लेता हूँ मुझे लगता है कि हाँ ये करने जाता है तो फिर मैं सहमना जो लोग हैं मेरे विचारों को उनको शेर करके हलके फुल के शब्दों में मैं डालता हूँ"
+    },
+    {
+      "chunk_idx": 15,
+      "start_sec": 450,
+      "end_sec": 480,
+      "text": " उनके भी reaction देखता हूँ कि ये निर्णय का क्या होगा और मुझे फिर जब conviction बन जाए कि हाँ ये मैं सही कर रहा हूँ तो एक पूरी process जो बोलता हूँ इतना भी time नहीं लगता है मेरी speed बहुत है अब जैसे मैं एक उधान दू कोरोना के समय कैसे निर्णय लिए",
+      "language": "Hindi",
+      "ipa_text": "ʊnəkeː bʱiː riˈækʃən d̪eːkʰət̪aː ɦuːँ kɪ jeː nɪɾणj kaː kjaː ɦoːɡaː ɔːɾ mʊdʒʱeː pʰɪɾ dʒəb kənˈvɪkʃən bən dʒaːeː kɪ ɦaːँ jeː mɛːn səɦiː kəɾ ɾəɦaː ɦuːँ t̪oː eːk puːɾiː ˈprɔˌsɛs dʒoː boːlət̪aː ɦuːँ ɪt̪ənaː bʱiː taɪm nəɦiːn ləɡət̪aː ɦɛː meːɾiː spid bəɦʊt̪ ɦɛː əb dʒɛːseː mɛːn eːk ʊd̪ʱaːn d̪uː koːɾoːnaː keː səməj kɛːseː nɪɾणj lɪeː",
+      "maithili_translation": "उनके भी reaction देखता हूँ कि ये decision का क्या होगा और मुझे फिर जब conviction बन जाए कि हाँ ये मैं सही कर रहा हूँ तो एक पूरी process जो बोलता हूँ इतना भी time नहीं लगता है मेरी speed बहुत है अब जैसे मैं एक उधान दू कोरोना के समय कैसे decision लिए"
+    },
+    {
+      "chunk_idx": 16,
+      "start_sec": 480,
+      "end_sec": 510,
+      "text": " मुझे ये नॉबल प्राइज विनर मिलते हैं, इकोनॉमी में भाद-भाद के मुझे उदान देते थे, फलाने देश ने ये कर दिया, डिकने देश ने ये, तुम भी करो, तुम भी करो, बड़े-बड़े इकोनॉमिस्ट बना करें, मेरा सर खबाते थे, पुल टकल पार्टिया मुझे प्रिशर करती थे, इतना पैसा दे दो, इतना पैसा, मैं कुछ करता नहीं था, मैं सोचता था, मैं क्या करूँगा, और फिर मैंने, मेरी अपनी, मेरे देश की परिस्थिति के अनुसार को निलने की है,",
+      "language": "Hindi",
+      "ipa_text": "mʊdʒʱeː jeː nəॉbəl pɾaːɪdʒ ʋɪnəɾ mɪlət̪eː ɦɛːn, ɪkoːnəॉmiː meːn bʱaːd̪ə-bʱaːd̪ keː mʊdʒʱeː ʊd̪aːn d̪eːt̪eː t̪ʰeː, pʰəlaːneː d̪eːʃ neː jeː kəɾ d̪ɪjaː, ɖɪkəneː d̪eːʃ neː jeː, t̪ʊm bʱiː kəɾoː, t̪ʊm bʱiː kəɾoː, bəɖə़eː-bəɖə़eː ɪkoːnəॉmɪsʈ bənaː kəɾeːn, meːɾaː səɾ kʰəbaːt̪eː t̪ʰeː, pʊl ʈəkəl paːɾʈɪjaː mʊdʒʱeː pɾɪʃəɾ kəɾət̪iː t̪ʰeː, ɪt̪ənaː pɛːsaː d̪eː d̪oː, ɪt̪ənaː pɛːsaː, mɛːn kʊtʃʰ kəɾət̪aː nəɦiːn t̪ʰaː, mɛːn soːtʃət̪aː t̪ʰaː, mɛːn kjaː kəɾuːँɡaː, ɔːɾ pʰɪɾ mɛːnneː, meːɾiː əpəniː, meːɾeː d̪eːʃ kiː pəɾɪst̪ʰɪt̪ɪ keː ənʊsaːɾ koː nɪləneː kiː ɦɛː,",
+      "maithili_translation": "मुझे ये नॉबल प्राइज विनर मिलते हैं इकोनॉमी में भाद-भाद के मुझे उदान देते थे फलाने देश ने ये कर दिया डिकने देश ने ये तुम भी करो तुम भी करो बड़े-बड़े इकोनॉमिस्ट बना करें मेरा सर खबाते थे पुल टकल पार्टिया मुझे प्रिशर करती थे इतना पैसा दे दो इतना पैसा मैं कुछ करता नहीं था मैं सोचता था मैं क्या करूँगा और फिर मैंने मेरी अपनी मेरे देश की परिस्थिति के अनुसार को निलने की है"
+    },
+    {
+      "chunk_idx": 17,
+      "start_sec": 510,
+      "end_sec": 540,
+      "text": " मैं गरीब को भूखा सोने नहीं दूँगा, मैं रोज मरा के आवशकता के लिए सामाजिक तनाव पैदा नहीं होने दूँगा, ऐसे कुछ मेरे मन में भाव पताए हुए, सब दुनिया तो लॉकडाउन में पड़ी थी, इकानामिक पूरी तरह दुनिया की वैट चुकी थी, दुनिया मुझे पेशर करती थी, खजाना खाली करो, नोटो चापो, नोटे देते रहो, इकानामिक कैसे करो,",
+      "language": "Hindi",
+      "ipa_text": "mɛːn ɡəɾiːb koː bʱuːkʰaː soːneː nəɦiːn d̪uːँɡaː, mɛːn ɾoːdʒ məɾaː keː aːʋəʃəkət̪aː keː lɪeː saːmaːdʒɪk t̪ənaːʋ pɛːd̪aː nəɦiːn ɦoːneː d̪uːँɡaː, ɛːseː kʊtʃʰ meːɾeː mən meːn bʱaːʋ pət̪aːeː ɦʊeː, səb d̪ʊnɪjaː t̪oː ləॉkəɖaːʊn meːn pəɖə़iː t̪ʰiː, ɪkaːnaːmɪk puːɾiː t̪əɾəɦ d̪ʊnɪjaː kiː ʋɛːʈ tʃʊkiː t̪ʰiː, d̪ʊnɪjaː mʊdʒʱeː peːʃəɾ kəɾət̪iː t̪ʰiː, kʰədʒaːnaː kʰaːliː kəɾoː, noːʈoː tʃaːpoː, noːʈeː d̪eːt̪eː ɾəɦoː, ɪkaːnaːmɪk kɛːseː kəɾoː,",
+      "maithili_translation": "मैं गरीब को भूखा सोने नहीं दूँगा मैं रोज मरा के आवशकता के लिए social tension/stress पैदा नहीं होने दूँगा ऐसे कुछ मेरे मन में भाव पताए हुए सब दुनिया तो लॉकडाउन में पड़ी थी इकानामिक पूरी तरह दुनिया की वैट चुकी थी दुनिया मुझे पेशर करती थी treasury/wealth खाली करो नोटो चापो नोटे देते रहो इकानामिक कैसे करो"
+    },
+    {
+      "chunk_idx": 18,
+      "start_sec": 540,
+      "end_sec": 570,
+      "text": " मैं उस रास्ते पर जाना नहीं चाहता था, लेकिन अनुभव ये कहता है कि मैंने जिस रास्ते पर चला, एक्सपर्ट के उपिनियन मैंने सुने थे, समझने का प्रयास भी किया था, विरोध भी नहीं किया था, लेकिन मैंने मेरे देश की परिष्टिती, मेरे अपने अनुभव, उन सब को मिला करके, मिश्रण करके, जिन चीजों को डेवलप किया है, और जो व्यवस्था है खड़ी के उसके कारण,",
+      "language": "Hindi",
+      "ipa_text": "mɛːn ʊs ɾaːst̪eː pəɾ dʒaːnaː nəɦiːn tʃaːɦət̪aː t̪ʰaː, leːkɪn ənʊbʱəʋ jeː kəɦət̪aː ɦɛː kɪ mɛːnneː dʒɪs ɾaːst̪eː pəɾ tʃəlaː, eːksəpəɾʈ keː ʊpɪnɪjən mɛːnneː sʊneː t̪ʰeː, səmədʒʱəneː kaː pɾəjaːs bʱiː kɪjaː t̪ʰaː, ʋɪɾoːd̪ʱ bʱiː nəɦiːn kɪjaː t̪ʰaː, leːkɪn mɛːnneː meːɾeː d̪eːʃ kiː pəɾɪʂʈɪt̪iː, meːɾeː əpəneː ənʊbʱəʋə, ʊn səb koː mɪlaː kəɾəkeː, mɪʃɾəण kəɾəkeː, dʒɪn tʃiːdʒoːn koː ɖeːʋələp kɪjaː ɦɛː, ɔːɾ dʒoː ʋjəʋəst̪ʰaː ɦɛː kʰəɖə़iː keː ʊsəkeː kaːɾəण,",
+      "maithili_translation": "मैं उस रास्ते पर जाना नहीं चाहता था लेकिन अनुभव ये कहता है कि मैंने जिस रास्ते पर चला एक्सपर्ट के उपिनियन मैंने सुने थे समझने का effort भी किया था विरोध भी नहीं किया था लेकिन मैंने मेरे देश की परिष्टिती मेरे अपने अनुभव उन सब को मिला करके मिश्रण करके जिन चीजों को डेवलप किया है और जो व्यवस्था है खड़ी के उसके कारण"
+    },
+    {
+      "chunk_idx": 19,
+      "start_sec": 570,
+      "end_sec": 600,
+      "text": " दुनिया ने जो inflation की मुसीबत जेली, immediate after covid, मेरे देश ने नहीं जेली, मेरा देश आज लगातार दुनिया की बड़ी economy में तेज गती से प्रगधी करने वाला है, उसका मूल कारण, उस संकर के समय बड़े धैरिय के साथ कोई दुनिया भर की theory को लागू करने के मोह में पड़े बिना,",
+      "language": "Hindi",
+      "ipa_text": "d̪ʊnɪjaː neː dʒoː ˌɪnˈfleɪʃən kiː mʊsiːbət̪ dʒeːliː, ˌɪˈmiˌdiət ˈæftər covid meːɾeː d̪eːʃ neː nəɦiːn dʒeːliː, meːɾaː d̪eːʃ aːdʒ ləɡaːt̪aːɾ d̪ʊnɪjaː kiː bəɖə़iː ɪˈkɑnəmi meːn t̪eːdʒ ɡət̪iː seː pɾəɡəd̪ʱiː kəɾəneː ʋaːlaː ɦɛː, ʊsəkaː muːl kaːɾəण, ʊs sənkəɾ keː səməj bəɖə़eː d̪ʱɛːɾɪj keː saːt̪ʰ koːiː d̪ʊnɪjaː bʱəɾ kiː ˈθɪri koː laːɡuː kəɾəneː keː moːɦ meːn pəɖə़eː bɪnaː,",
+      "maithili_translation": "दुनिया ने जो मुद्रास्फीति (mudrasphiti) की trouble/hardship जेली immediate after कोविड (covid) मेरे देश ने नहीं जेली मेरा देश आज लगातार दुनिया की बड़ी अर्थव्यवस्था (arthavyavastha) में तेज गती से प्रगधी करने वाला है उसका मूल कारण उस संकर के समय बड़े धैरिय के साथ कोई दुनिया भर की theory को लागू करने के मोह में पड़े बिना"
+    }
+  ],
+  "language_switches": [
+    {
+      "switch_at_sec": 90.2,
+      "from_lang": "Hindi",
+      "to_lang": "English"
+    },
+    {
+      "switch_at_sec": 119.92,
+      "from_lang": "English",
+      "to_lang": "Hindi"
+    },
+    {
+      "switch_at_sec": 239.84,
+      "from_lang": "Hindi",
+      "to_lang": "English"
+    },
+    {
+      "switch_at_sec": 269.82,
+      "from_lang": "English",
+      "to_lang": "Hindi"
+    }
+  ]
+}

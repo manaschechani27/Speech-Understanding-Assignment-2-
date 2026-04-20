@@ -1,0 +1,487 @@
+{
+  "original_prediction": "Hindi",
+  "original_confidence": 0.5240134596824646,
+  "minimum_flip_epsilon": null,
+  "epsilon_sweep": [
+    {
+      "epsilon": 1e-05,
+      "prediction": "Hindi",
+      "confidence": 0.5154294371604919,
+      "snr_db": 74.94552630812338,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 9.457627118644069e-05,
+      "prediction": "Hindi",
+      "confidence": 0.5080554485321045,
+      "snr_db": 55.47261079285667,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.00017915254237288138,
+      "prediction": "Hindi",
+      "confidence": 0.5139873623847961,
+      "snr_db": 49.92414522211466,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0002637288135593221,
+      "prediction": "Hindi",
+      "confidence": 0.5175334811210632,
+      "snr_db": 46.565525985269176,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0003483050847457628,
+      "prediction": "Hindi",
+      "confidence": 0.518254816532135,
+      "snr_db": 44.14950795621095,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0004328813559322035,
+      "prediction": "Hindi",
+      "confidence": 0.5183114409446716,
+      "snr_db": 42.26133924387643,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0005174576271186442,
+      "prediction": "Hindi",
+      "confidence": 0.5196319818496704,
+      "snr_db": 40.71122797345224,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0006020338983050849,
+      "prediction": "Hindi",
+      "confidence": 0.5217809081077576,
+      "snr_db": 39.39630915431668,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0006866101694915256,
+      "prediction": "Hindi",
+      "confidence": 0.5234364867210388,
+      "snr_db": 38.254526202920616,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0007711864406779662,
+      "prediction": "Hindi",
+      "confidence": 0.5231231451034546,
+      "snr_db": 37.24554504325819,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.000855762711864407,
+      "prediction": "Hindi",
+      "confidence": 0.5244864821434021,
+      "snr_db": 36.34166693457463,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0009403389830508476,
+      "prediction": "Hindi",
+      "confidence": 0.5250046253204346,
+      "snr_db": 35.523046319256345,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0010249152542372883,
+      "prediction": "Hindi",
+      "confidence": 0.5254194140434265,
+      "snr_db": 34.77497677231512,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.001109491525423729,
+      "prediction": "Hindi",
+      "confidence": 0.5258734822273254,
+      "snr_db": 34.086256731291726,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0011940677966101698,
+      "prediction": "Hindi",
+      "confidence": 0.5261124968528748,
+      "snr_db": 33.448157283911534,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0012786440677966103,
+      "prediction": "Hindi",
+      "confidence": 0.5263047218322754,
+      "snr_db": 32.85374402786035,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.001363220338983051,
+      "prediction": "Hindi",
+      "confidence": 0.5265671610832214,
+      "snr_db": 32.29741656777785,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0014477966101694919,
+      "prediction": "Hindi",
+      "confidence": 0.5268686413764954,
+      "snr_db": 31.774586865075438,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0015323728813559324,
+      "prediction": "Hindi",
+      "confidence": 0.527234673500061,
+      "snr_db": 31.281449044421077,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0016169491525423732,
+      "prediction": "Hindi",
+      "confidence": 0.5275998115539551,
+      "snr_db": 30.814811123627457,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.001701525423728814,
+      "prediction": "Hindi",
+      "confidence": 0.5278844833374023,
+      "snr_db": 30.371969694094368,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0017861016949152545,
+      "prediction": "Hindi",
+      "confidence": 0.528313398361206,
+      "snr_db": 29.950615032701087,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0018706779661016952,
+      "prediction": "Hindi",
+      "confidence": 0.5285704731941223,
+      "snr_db": 29.548758186736052,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0019552542372881358,
+      "prediction": "Hindi",
+      "confidence": 0.5288371443748474,
+      "snr_db": 29.164674195287365,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0020398305084745765,
+      "prediction": "Hindi",
+      "confidence": 0.5289568901062012,
+      "snr_db": 28.796857342822978,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0021244067796610173,
+      "prediction": "Hindi",
+      "confidence": 0.5288350582122803,
+      "snr_db": 28.44398550921746,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.002208983050847458,
+      "prediction": "Hindi",
+      "confidence": 0.5289261937141418,
+      "snr_db": 28.104891483605282,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.002293559322033899,
+      "prediction": "Hindi",
+      "confidence": 0.5288522839546204,
+      "snr_db": 27.77853967088435,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0023781355932203396,
+      "prediction": "Hindi",
+      "confidence": 0.5288376808166504,
+      "snr_db": 27.46400701831839,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.00246271186440678,
+      "prediction": "Hindi",
+      "confidence": 0.5291035175323486,
+      "snr_db": 27.160467276759952,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0025472881355932207,
+      "prediction": "Hindi",
+      "confidence": 0.5289860963821411,
+      "snr_db": 26.867177920471637,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0026318644067796614,
+      "prediction": "Hindi",
+      "confidence": 0.5288357734680176,
+      "snr_db": 26.58346920420172,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.002716440677966102,
+      "prediction": "Hindi",
+      "confidence": 0.5286815762519836,
+      "snr_db": 26.308734951678066,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.002801016949152543,
+      "prediction": "Hindi",
+      "confidence": 0.5285364389419556,
+      "snr_db": 26.04242475683965,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0028855932203389837,
+      "prediction": "Hindi",
+      "confidence": 0.528408944606781,
+      "snr_db": 25.78403734552479,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0029701694915254245,
+      "prediction": "Hindi",
+      "confidence": 0.5283041000366211,
+      "snr_db": 25.53311489637933,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003054745762711865,
+      "prediction": "Hindi",
+      "confidence": 0.5282260775566101,
+      "snr_db": 25.289238159319996,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0031393220338983055,
+      "prediction": "Hindi",
+      "confidence": 0.5281829237937927,
+      "snr_db": 25.052022240809173,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0032238983050847463,
+      "prediction": "Hindi",
+      "confidence": 0.52821284532547,
+      "snr_db": 24.821112949539046,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003308474576271187,
+      "prediction": "Hindi",
+      "confidence": 0.5284416675567627,
+      "snr_db": 24.59618361541881,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003393050847457628,
+      "prediction": "Hindi",
+      "confidence": 0.5284464955329895,
+      "snr_db": 24.376932310156647,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0034776271186440686,
+      "prediction": "Hindi",
+      "confidence": 0.528473973274231,
+      "snr_db": 24.163079410091413,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003562203389830509,
+      "prediction": "Hindi",
+      "confidence": 0.5287466049194336,
+      "snr_db": 23.954365451914793,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0036467796610169497,
+      "prediction": "Hindi",
+      "confidence": 0.5289421081542969,
+      "snr_db": 23.75054924003515,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0037313559322033904,
+      "prediction": "Hindi",
+      "confidence": 0.5290733575820923,
+      "snr_db": 23.55140617095657,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003815932203389831,
+      "prediction": "Hindi",
+      "confidence": 0.5291852951049805,
+      "snr_db": 23.356726745480945,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003900508474576272,
+      "prediction": "Hindi",
+      "confidence": 0.5292914509773254,
+      "snr_db": 23.166315244022044,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.003985084745762712,
+      "prediction": "Hindi",
+      "confidence": 0.5293930768966675,
+      "snr_db": 22.97998854403221,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004069661016949153,
+      "prediction": "Hindi",
+      "confidence": 0.5294889807701111,
+      "snr_db": 22.797575061630223,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004154237288135593,
+      "prediction": "Hindi",
+      "confidence": 0.5295771956443787,
+      "snr_db": 22.61891380209869,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004238813559322034,
+      "prediction": "Hindi",
+      "confidence": 0.529656708240509,
+      "snr_db": 22.443853506082565,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004323389830508475,
+      "prediction": "Hindi",
+      "confidence": 0.5297278165817261,
+      "snr_db": 22.27225188014249,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004407966101694916,
+      "prediction": "Hindi",
+      "confidence": 0.5297921299934387,
+      "snr_db": 22.103974901855118,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004492542372881356,
+      "prediction": "Hindi",
+      "confidence": 0.5298511981964111,
+      "snr_db": 21.938896190958232,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004577118644067797,
+      "prediction": "Hindi",
+      "confidence": 0.5299063324928284,
+      "snr_db": 21.776896439148445,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004661694915254238,
+      "prediction": "Hindi",
+      "confidence": 0.5299579501152039,
+      "snr_db": 21.617862892086933,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004746271186440679,
+      "prediction": "Hindi",
+      "confidence": 0.5300055146217346,
+      "snr_db": 21.46168887798,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0048308474576271195,
+      "prediction": "Hindi",
+      "confidence": 0.5300480723381042,
+      "snr_db": 21.308273377797818,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.004915423728813559,
+      "prediction": "Hindi",
+      "confidence": 0.5300840139389038,
+      "snr_db": 21.157520632794693,
+      "flipped": false,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.005,
+      "prediction": "Hindi",
+      "confidence": 0.5301106572151184,
+      "snr_db": 21.009339785511955,
+      "flipped": false,
+      "inaudible": false
+    }
+  ]
+}

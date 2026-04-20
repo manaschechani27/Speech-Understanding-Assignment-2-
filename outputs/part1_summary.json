@@ -1,0 +1,21 @@
+{
+  "assignment": "Speech Understanding PA-2",
+  "part": "Part 1 - Robust Code-Switched Transcription",
+  "tasks": {
+    "1.3": "DeepFilterNet denoising",
+    "1.1": "Multi-Head LID (wav2vec2 + attention classifier)",
+    "1.2": "Whisper-large-v3 with N-gram logit bias constrained decoding"
+  },
+  "outputs": {
+    "clean_audio": "data/original_segment.wav",
+    "lid_results": "outputs/lid_results.json",
+    "transcript": "outputs/transcript.json",
+    "lid_model": "models/lid_model.pt"
+  },
+  "evaluation": {
+    "LID_F1_target": ">= 0.85",
+    "WER_English": "< 15%",
+    "WER_Hindi": "< 25%",
+    "switch_precision": "<= 200ms"
+  }
+}

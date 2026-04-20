@@ -1,0 +1,645 @@
+{
+  "minimum_flip_epsilon": 0.0006427848101265823,
+  "epsilon_sweep": [
+    {
+      "epsilon": 1e-05,
+      "prediction": "Hindi",
+      "confidence": 0.5176176428794861,
+      "snr_db": 83.02143859863281,
+      "flipped": false,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0006427848101265823,
+      "prediction": "English",
+      "confidence": 0.5441991090774536,
+      "snr_db": 59.88945007324219,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0012755696202531646,
+      "prediction": "English",
+      "confidence": 0.5510746836662292,
+      "snr_db": 53.75486755371094,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.001908354430379747,
+      "prediction": "English",
+      "confidence": 0.5389962792396545,
+      "snr_db": 50.27705383300781,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0025411392405063292,
+      "prediction": "English",
+      "confidence": 0.5572226047515869,
+      "snr_db": 47.89076232910156,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.0031739240506329113,
+      "prediction": "English",
+      "confidence": 0.5592526793479919,
+      "snr_db": 46.153297424316406,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.003806708860759494,
+      "prediction": "English",
+      "confidence": 0.5626280307769775,
+      "snr_db": 44.71946716308594,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.004439493670886076,
+      "prediction": "English",
+      "confidence": 0.5660959482192993,
+      "snr_db": 43.435550689697266,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.005072278481012658,
+      "prediction": "English",
+      "confidence": 0.5637122392654419,
+      "snr_db": 42.28988265991211,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.00570506329113924,
+      "prediction": "English",
+      "confidence": 0.5628579258918762,
+      "snr_db": 41.174537658691406,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.006337848101265822,
+      "prediction": "English",
+      "confidence": 0.5641289949417114,
+      "snr_db": 40.28549575805664,
+      "flipped": true,
+      "inaudible": true
+    },
+    {
+      "epsilon": 0.006970632911392405,
+      "prediction": "English",
+      "confidence": 0.5641400814056396,
+      "snr_db": 39.452274322509766,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.007603417721518987,
+      "prediction": "English",
+      "confidence": 0.5576614737510681,
+      "snr_db": 38.702816009521484,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.00823620253164557,
+      "prediction": "English",
+      "confidence": 0.5625175833702087,
+      "snr_db": 37.915679931640625,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.008868987341772152,
+      "prediction": "English",
+      "confidence": 0.5624501705169678,
+      "snr_db": 37.26145553588867,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.009501772151898734,
+      "prediction": "English",
+      "confidence": 0.5614392757415771,
+      "snr_db": 36.47157287597656,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.010134556962025316,
+      "prediction": "English",
+      "confidence": 0.5630811452865601,
+      "snr_db": 36.19021987915039,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0107673417721519,
+      "prediction": "English",
+      "confidence": 0.5642452239990234,
+      "snr_db": 35.74348831176758,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.01140012658227848,
+      "prediction": "English",
+      "confidence": 0.5451929569244385,
+      "snr_db": 34.948116302490234,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.012032911392405064,
+      "prediction": "English",
+      "confidence": 0.5575343370437622,
+      "snr_db": 34.518218994140625,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.012665696202531645,
+      "prediction": "English",
+      "confidence": 0.5650074481964111,
+      "snr_db": 34.36183547973633,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.013298481012658228,
+      "prediction": "English",
+      "confidence": 0.5651461482048035,
+      "snr_db": 33.923133850097656,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.01393126582278481,
+      "prediction": "English",
+      "confidence": 0.5651609301567078,
+      "snr_db": 33.49537658691406,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.014564050632911392,
+      "prediction": "English",
+      "confidence": 0.5648771524429321,
+      "snr_db": 33.076847076416016,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.015196835443037975,
+      "prediction": "English",
+      "confidence": 0.5648034811019897,
+      "snr_db": 32.6963996887207,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.015829620253164558,
+      "prediction": "English",
+      "confidence": 0.5648030638694763,
+      "snr_db": 32.32073974609375,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.01646240506329114,
+      "prediction": "English",
+      "confidence": 0.5648546814918518,
+      "snr_db": 31.983142852783203,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.01709518987341772,
+      "prediction": "English",
+      "confidence": 0.5652927756309509,
+      "snr_db": 31.673891067504883,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.017727974683544305,
+      "prediction": "English",
+      "confidence": 0.5638010501861572,
+      "snr_db": 31.24835205078125,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.018360759493670886,
+      "prediction": "English",
+      "confidence": 0.5646669864654541,
+      "snr_db": 31.030500411987305,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.018993544303797467,
+      "prediction": "English",
+      "confidence": 0.564311683177948,
+      "snr_db": 30.743982315063477,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.019626329113924052,
+      "prediction": "English",
+      "confidence": 0.5644065737724304,
+      "snr_db": 30.44223976135254,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.020259113924050633,
+      "prediction": "English",
+      "confidence": 0.5646682977676392,
+      "snr_db": 30.172414779663086,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.020891898734177215,
+      "prediction": "English",
+      "confidence": 0.5647993683815002,
+      "snr_db": 29.91425323486328,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0215246835443038,
+      "prediction": "English",
+      "confidence": 0.5652068853378296,
+      "snr_db": 29.628612518310547,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.02215746835443038,
+      "prediction": "English",
+      "confidence": 0.565094530582428,
+      "snr_db": 29.382186889648438,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.02279025316455696,
+      "prediction": "English",
+      "confidence": 0.5648427605628967,
+      "snr_db": 29.149961471557617,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.023423037974683546,
+      "prediction": "English",
+      "confidence": 0.5007181763648987,
+      "snr_db": 31.88664436340332,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.024055822784810128,
+      "prediction": "English",
+      "confidence": 0.501814067363739,
+      "snr_db": 31.65510368347168,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.02468860759493671,
+      "prediction": "English",
+      "confidence": 0.502720296382904,
+      "snr_db": 31.429576873779297,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.02532139240506329,
+      "prediction": "English",
+      "confidence": 0.5036505460739136,
+      "snr_db": 31.20975685119629,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.025954177215189875,
+      "prediction": "English",
+      "confidence": 0.5045652985572815,
+      "snr_db": 30.995365142822266,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.026586962025316456,
+      "prediction": "English",
+      "confidence": 0.5052031874656677,
+      "snr_db": 30.786136627197266,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.027219746835443037,
+      "prediction": "English",
+      "confidence": 0.5057622194290161,
+      "snr_db": 30.581829071044922,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.027852531645569622,
+      "prediction": "English",
+      "confidence": 0.5062763690948486,
+      "snr_db": 30.382217407226562,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.028485316455696203,
+      "prediction": "English",
+      "confidence": 0.5067518353462219,
+      "snr_db": 30.187089920043945,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.029118101265822784,
+      "prediction": "English",
+      "confidence": 0.5072328448295593,
+      "snr_db": 29.996252059936523,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.02975088607594937,
+      "prediction": "English",
+      "confidence": 0.5077896118164062,
+      "snr_db": 29.809513092041016,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03038367088607595,
+      "prediction": "English",
+      "confidence": 0.5081384181976318,
+      "snr_db": 29.626705169677734,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03101645569620253,
+      "prediction": "English",
+      "confidence": 0.5091440677642822,
+      "snr_db": 29.44766616821289,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03164924050632912,
+      "prediction": "English",
+      "confidence": 0.5090852379798889,
+      "snr_db": 29.272247314453125,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0322820253164557,
+      "prediction": "English",
+      "confidence": 0.5090121030807495,
+      "snr_db": 29.100299835205078,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03291481012658228,
+      "prediction": "English",
+      "confidence": 0.5090177655220032,
+      "snr_db": 28.931690216064453,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03354759493670886,
+      "prediction": "English",
+      "confidence": 0.5090742707252502,
+      "snr_db": 28.76628875732422,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.034180379746835444,
+      "prediction": "English",
+      "confidence": 0.50913006067276,
+      "snr_db": 28.60398292541504,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03481316455696203,
+      "prediction": "English",
+      "confidence": 0.5091657042503357,
+      "snr_db": 28.444652557373047,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.035445949367088614,
+      "prediction": "English",
+      "confidence": 0.5091726183891296,
+      "snr_db": 28.288190841674805,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.036078734177215195,
+      "prediction": "English",
+      "confidence": 0.5091457962989807,
+      "snr_db": 28.134496688842773,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.036711518987341776,
+      "prediction": "English",
+      "confidence": 0.5090834498405457,
+      "snr_db": 27.983476638793945,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03734430379746836,
+      "prediction": "English",
+      "confidence": 0.5089850425720215,
+      "snr_db": 27.835041046142578,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03797708860759494,
+      "prediction": "English",
+      "confidence": 0.5088505744934082,
+      "snr_db": 27.68909454345703,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03860987341772153,
+      "prediction": "English",
+      "confidence": 0.5086815357208252,
+      "snr_db": 27.54555892944336,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03924265822784811,
+      "prediction": "English",
+      "confidence": 0.5084788799285889,
+      "snr_db": 27.404361724853516,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.03987544303797469,
+      "prediction": "English",
+      "confidence": 0.5082434415817261,
+      "snr_db": 27.265422821044922,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04050822784810127,
+      "prediction": "English",
+      "confidence": 0.5079764127731323,
+      "snr_db": 27.1286678314209,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04114101265822785,
+      "prediction": "English",
+      "confidence": 0.507678747177124,
+      "snr_db": 26.994033813476562,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04177379746835443,
+      "prediction": "English",
+      "confidence": 0.507352888584137,
+      "snr_db": 26.8614559173584,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.042406582278481014,
+      "prediction": "English",
+      "confidence": 0.5070021152496338,
+      "snr_db": 26.73086929321289,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0430393670886076,
+      "prediction": "English",
+      "confidence": 0.5066298842430115,
+      "snr_db": 26.602218627929688,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.043672151898734184,
+      "prediction": "English",
+      "confidence": 0.5062399506568909,
+      "snr_db": 26.475444793701172,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.044304936708860765,
+      "prediction": "English",
+      "confidence": 0.5058358907699585,
+      "snr_db": 26.350496292114258,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.044937721518987346,
+      "prediction": "English",
+      "confidence": 0.5054208040237427,
+      "snr_db": 26.227317810058594,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04557050632911393,
+      "prediction": "English",
+      "confidence": 0.5049983859062195,
+      "snr_db": 26.105863571166992,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04620329113924051,
+      "prediction": "English",
+      "confidence": 0.5045721530914307,
+      "snr_db": 25.986082077026367,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.0468360759493671,
+      "prediction": "English",
+      "confidence": 0.5041455030441284,
+      "snr_db": 25.867931365966797,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04746886075949368,
+      "prediction": "English",
+      "confidence": 0.5037232041358948,
+      "snr_db": 25.751365661621094,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04810164556962026,
+      "prediction": "English",
+      "confidence": 0.5033093094825745,
+      "snr_db": 25.63634490966797,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04873443037974684,
+      "prediction": "English",
+      "confidence": 0.502912163734436,
+      "snr_db": 25.522825241088867,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.04936721518987342,
+      "prediction": "English",
+      "confidence": 0.5025400519371033,
+      "snr_db": 25.410770416259766,
+      "flipped": true,
+      "inaudible": false
+    },
+    {
+      "epsilon": 0.05,
+      "prediction": "English",
+      "confidence": 0.5021935701370239,
+      "snr_db": 25.30014419555664,
+      "flipped": true,
+      "inaudible": false
+    }
+  ]
+}

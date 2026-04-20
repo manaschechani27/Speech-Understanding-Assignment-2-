@@ -1,0 +1,2002 @@
+{
+    "जिम्मेवारी": {
+        "ipa": "dʒɪmmeːʋaːɾiː",
+        "translation": "responsibility"
+    },
+    "देशवासियों": {
+        "ipa": "d̪eːʃʋaːsɪjoːn",
+        "translation": "citizens"
+    },
+    "प्रयास": {
+        "ipa": "pɾəjaːs",
+        "translation": "effort"
+    },
+    "परिश्रम": {
+        "ipa": "pəɾɪʃɾəm",
+        "translation": "hard work"
+    },
+    "चुनाव": {
+        "ipa": "tʃʊnaːʋ",
+        "translation": "election"
+    },
+    "आदर": {
+        "ipa": "aːd̪əɾ",
+        "translation": "respect"
+    },
+    "तपस्या": {
+        "ipa": "t̪əpəsjaː",
+        "translation": "penance/dedication"
+    },
+    "भ्रमण": {
+        "ipa": "bʱɾəməɳ",
+        "translation": "touring/traveling"
+    },
+    "निर्णय": {
+        "ipa": "nɪɾɳəj",
+        "translation": "decision"
+    },
+    "मंथन": {
+        "ipa": "məntʰən",
+        "translation": "brainstorming/churning"
+    },
+    "अमृत": {
+        "ipa": "əmɾɪt̪",
+        "translation": "nectar/pure outcome"
+    },
+    "संकट": {
+        "ipa": "sənkəʈ",
+        "translation": "crisis"
+    },
+    "सामाजिक": {
+        "ipa": "saːmaːdʒɪk",
+        "translation": "social"
+    },
+    "तनाव": {
+        "ipa": "t̪ənaːʋ",
+        "translation": "tension/stress"
+    },
+    "खजाना": {
+        "ipa": "kʰədʒaːnaː",
+        "translation": "treasury/wealth"
+    },
+    "मुसीबत": {
+        "ipa": "mʊsiːbət̪",
+        "translation": "trouble/hardship"
+    },
+    "प्रगति": {
+        "ipa": "pɾəɡət̪ɪ",
+        "translation": "progress"
+    },
+    "धैर्य": {
+        "ipa": "d̪ʱɛːɾjə",
+        "translation": "patience"
+    },
+    "आर्थिक": {
+        "ipa": "aːɾtʰɪk",
+        "translation": "economic"
+    },
+    "नेतृत्व": {
+        "ipa": "neːt̪ɾɪt̪ʋə",
+        "translation": "leadership"
+    },
+    "motivate": {
+        "ipa": "ˈmoʊtɪˌveɪt",
+        "translation": "प्रेरित करना (prerit karna)"
+    },
+    "engineer": {
+        "ipa": "ˌɛndʒɪˈnɪr",
+        "translation": "अभियंता (abhiyanta)"
+    },
+    "mathematics": {
+        "ipa": "ˌmæθəˈmætɪks",
+        "translation": "गणित (ganit)"
+    },
+    "century": {
+        "ipa": "ˈsɛntʃəri",
+        "translation": "सदी (sadi)"
+    },
+    "poverty": {
+        "ipa": "ˈpɑvərti",
+        "translation": "गरीबी (garibi)"
+    },
+    "inflation": {
+        "ipa": "ɪnˈfleɪʃən",
+        "translation": "मुद्रास्फीति (mudrasphiti)"
+    },
+    "economy": {
+        "ipa": "ɪˈkɑnəmi",
+        "translation": "अर्थव्यवस्था (arthavyavastha)"
+    },
+    "governance": {
+        "ipa": "ˈgʌvərnəns",
+        "translation": "शासन (shaasan)"
+    },
+    "baggage": {
+        "ipa": "ˈbægɪdʒ",
+        "translation": "बोझ (bojh)"
+    },
+    "covid": {
+        "ipa": "ˈkoʊvɪd",
+        "translation": "कोविड (covid)"
+    },
+    "time": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: time]"
+    },
+    "of": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: of]"
+    },
+    "चनव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चनव]"
+    },
+    "इरश": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इरश]"
+    },
+    "तमह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तमह]"
+    },
+    "हमश": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हमश]"
+    },
+    "जत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जत]"
+    },
+    "समय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: समय]"
+    },
+    "जसम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जसम]"
+    },
+    "up": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: up]"
+    },
+    "an": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: an]"
+    },
+    "your": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: your]"
+    },
+    "तम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तम]"
+    },
+    "decisive": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: decisive]"
+    },
+    "हआ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हआ]"
+    },
+    "one": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: one]"
+    },
+    "अपन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अपन]"
+    },
+    "बलत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बलत]"
+    },
+    "हए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हए]"
+    },
+    "लइव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लइव]"
+    },
+    "सथ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सथ]"
+    },
+    "नकषन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नकषन]"
+    },
+    "leader": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: leader]"
+    },
+    "लज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लज]"
+    },
+    "दवर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दवर]"
+    },
+    "वचर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वचर]"
+    },
+    "lot": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: lot]"
+    },
+    "टकल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: टकल]"
+    },
+    "महतम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: महतम]"
+    },
+    "मतर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मतर]"
+    },
+    "डवलप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: डवलप]"
+    },
+    "From": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: From]"
+    },
+    "me": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: me]"
+    },
+    "clear": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: clear]"
+    },
+    "दत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दत]"
+    },
+    "सह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सह]"
+    },
+    "topic": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: topic]"
+    },
+    "पड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पड]"
+    },
+    "सन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सन]"
+    },
+    "दय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दय]"
+    },
+    "डलत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: डलत]"
+    },
+    "सच": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सच]"
+    },
+    "widely": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: widely]"
+    },
+    "you": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: you]"
+    },
+    "फरसटड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: फरसटड]"
+    },
+    "as": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: as]"
+    },
+    "सथतय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सथतय]"
+    },
+    "जग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जग]"
+    },
+    "मर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मर]"
+    },
+    "जसक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जसक]"
+    },
+    "रख": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रख]"
+    },
+    "नलन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नलन]"
+    },
+    "रतर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रतर]"
+    },
+    "गए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गए]"
+    },
+    "तज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तज]"
+    },
+    "जल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जल]"
+    },
+    "सवयम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सवयम]"
+    },
+    "एपसन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: एपसन]"
+    },
+    "इसपरशन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इसपरशन]"
+    },
+    "वद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वद]"
+    },
+    "मज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मज]"
+    },
+    "रप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रप]"
+    },
+    "भदभद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: भदभद]"
+    },
+    "So": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: So]"
+    },
+    "पशर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पशर]"
+    },
+    "being": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: being]"
+    },
+    "आएग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आएग]"
+    },
+    "be": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: be]"
+    },
+    "do": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: do]"
+    },
+    "परशर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परशर]"
+    },
+    "तन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तन]"
+    },
+    "परयस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परयस]"
+    },
+    "बच": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बच]"
+    },
+    "हलक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हलक]"
+    },
+    "परकरट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परकरट]"
+    },
+    "इतन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इतन]"
+    },
+    "नरणई": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नरणई]"
+    },
+    "What": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: What]"
+    },
+    "with": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: with]"
+    },
+    "दग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दग]"
+    },
+    "गवरमट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गवरमट]"
+    },
+    "मह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मह]"
+    },
+    "परकर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परकर]"
+    },
+    "have": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: have]"
+    },
+    "आप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आप]"
+    },
+    "लड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लड]"
+    },
+    "when": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: when]"
+    },
+    "बतय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बतय]"
+    },
+    "इकनमक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इकनमक]"
+    },
+    "Indian": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: Indian]"
+    },
+    "भव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: भव]"
+    },
+    "walk": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: walk]"
+    },
+    "करग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: करग]"
+    },
+    "loves": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: loves]"
+    },
+    "लकर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लकर]"
+    },
+    "आकर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आकर]"
+    },
+    "Selftaught": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: Selftaught]"
+    },
+    "कस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कस]"
+    },
+    "पछत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पछत]"
+    },
+    "grew": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: grew]"
+    },
+    "चक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चक]"
+    },
+    "लए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लए]"
+    },
+    "ideas": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: ideas]"
+    },
+    "जन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जन]"
+    },
+    "नवस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नवस]"
+    },
+    "चनल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चनल]"
+    },
+    "कशश": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कशश]"
+    },
+    "इसलए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इसलए]"
+    },
+    "बद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बद]"
+    },
+    "चहर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चहर]"
+    },
+    "work": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: work]"
+    },
+    "शबद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: शबद]"
+    },
+    "करत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: करत]"
+    },
+    "सव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सव]"
+    },
+    "तनव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तनव]"
+    },
+    "सकर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सकर]"
+    },
+    "गरसरट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गरसरट]"
+    },
+    "मसत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मसत]"
+    },
+    "तरब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तरब]"
+    },
+    "उनक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उनक]"
+    },
+    "speed": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: speed]"
+    },
+    "balance": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: balance]"
+    },
+    "decisions": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: decisions]"
+    },
+    "करन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: करन]"
+    },
+    "पऊ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पऊ]"
+    },
+    "Ramanujan": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: Ramanujan]"
+    },
+    "नरणय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नरणय]"
+    },
+    "तपसय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तपसय]"
+    },
+    "रहग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रहग]"
+    },
+    "greatest": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: greatest]"
+    },
+    "सकत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सकत]"
+    },
+    "आग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आग]"
+    },
+    "through": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: through]"
+    },
+    "मथन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मथन]"
+    },
+    "खजन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: खजन]"
+    },
+    "सरफ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सरफ]"
+    },
+    "एकसपरट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: एकसपरट]"
+    },
+    "uncertainty": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: uncertainty]"
+    },
+    "सल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सल]"
+    },
+    "परसथत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परसथत]"
+    },
+    "वश": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वश]"
+    },
+    "वनर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वनर]"
+    },
+    "is": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: is]"
+    },
+    "रमनजम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रमनजम]"
+    },
+    "जस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जस]"
+    },
+    "बन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बन]"
+    },
+    "who": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: who]"
+    },
+    "बतओ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बतओ]"
+    },
+    "हमर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हमर]"
+    },
+    "मसबत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मसबत]"
+    },
+    "दडत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दडत]"
+    },
+    "परशरम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परशरम]"
+    },
+    "लत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लत]"
+    },
+    "रज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रज]"
+    },
+    "नबल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नबल]"
+    },
+    "find": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: find]"
+    },
+    "on": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: on]"
+    },
+    "जयद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जयद]"
+    },
+    "how": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: how]"
+    },
+    "परषटत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परषटत]"
+    },
+    "पद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पद]"
+    },
+    "sources": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: sources]"
+    },
+    "ऐस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: ऐस]"
+    },
+    "पछ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पछ]"
+    },
+    "खद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: खद]"
+    },
+    "चद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चद]"
+    },
+    "अगर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अगर]"
+    },
+    "दशवस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दशवस]"
+    },
+    "उतन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उतन]"
+    },
+    "कह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कह]"
+    },
+    "जए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जए]"
+    },
+    "उस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उस]"
+    },
+    "हत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हत]"
+    },
+    "डकन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: डकन]"
+    },
+    "खल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: खल]"
+    },
+    "in": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: in]"
+    },
+    "उनह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उनह]"
+    },
+    "लगत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लगत]"
+    },
+    "वदयरथ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वदयरथ]"
+    },
+    "चल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चल]"
+    },
+    "उलट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उलट]"
+    },
+    "अब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अब]"
+    },
+    "अकल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अकल]"
+    },
+    "उधन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उधन]"
+    },
+    "तल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तल]"
+    },
+    "हड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हड]"
+    },
+    "परत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परत]"
+    },
+    "कहत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कहत]"
+    },
+    "कसटय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कसटय]"
+    },
+    "अचछ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अचछ]"
+    },
+    "वयवसथ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वयवसथ]"
+    },
+    "mathematicians": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: mathematicians]"
+    },
+    "लब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लब]"
+    },
+    "14": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: 14]"
+    },
+    "ago": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: ago]"
+    },
+    "लवल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लवल]"
+    },
+    "दब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दब]"
+    },
+    "इन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इन]"
+    },
+    "चलन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चलन]"
+    },
+    "चप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चप]"
+    },
+    "knowledge": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: knowledge]"
+    },
+    "to": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: to]"
+    },
+    "और": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: और]"
+    },
+    "वरध": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वरध]"
+    },
+    "about": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: about]"
+    },
+    "no": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: no]"
+    },
+    "पडत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पडत]"
+    },
+    "हन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हन]"
+    },
+    "hard": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: hard]"
+    },
+    "आज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आज]"
+    },
+    "आपक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आपक]"
+    },
+    "नकल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नकल]"
+    },
+    "परगध": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परगध]"
+    },
+    "उपनयन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उपनयन]"
+    },
+    "करक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: करक]"
+    },
+    "बरप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बरप]"
+    },
+    "मशरण": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मशरण]"
+    },
+    "रह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रह]"
+    },
+    "जब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जब]"
+    },
+    "यह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: यह]"
+    },
+    "अफसर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अफसर]"
+    },
+    "spiritually": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: spiritually]"
+    },
+    "choice": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: choice]"
+    },
+    "खबत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: खबत]"
+    },
+    "conviction": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: conviction]"
+    },
+    "एक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: एक]"
+    },
+    "परव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परव]"
+    },
+    "मनव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मनव]"
+    },
+    "अनभव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अनभव]"
+    },
+    "आय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आय]"
+    },
+    "परवर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परवर]"
+    },
+    "सरकर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सरकर]"
+    },
+    "परटय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परटय]"
+    },
+    "You": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: You]"
+    },
+    "रसत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रसत]"
+    },
+    "आत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आत]"
+    },
+    "inspiring": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: inspiring]"
+    },
+    "having": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: having]"
+    },
+    "मनत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मनत]"
+    },
+    "तरह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तरह]"
+    },
+    "परकरय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परकरय]"
+    },
+    "लकन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लकन]"
+    },
+    "highstakes": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: highstakes]"
+    },
+    "उददव": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उददव]"
+    },
+    "advanced": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: advanced]"
+    },
+    "मन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मन]"
+    },
+    "मल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मल]"
+    },
+    "तसर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तसर]"
+    },
+    "दवट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दवट]"
+    },
+    "कय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कय]"
+    },
+    "दश": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दश]"
+    },
+    "थड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: थड]"
+    },
+    "devil": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: devil]"
+    },
+    "all": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: all]"
+    },
+    "सब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सब]"
+    },
+    "आई": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आई]"
+    },
+    "गरब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गरब]"
+    },
+    "As": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: As]"
+    },
+    "तक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तक]"
+    },
+    "इरद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इरद]"
+    },
+    "ask": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: ask]"
+    },
+    "कभ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कभ]"
+    },
+    "theory": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: theory]"
+    },
+    "तब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तब]"
+    },
+    "गत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गत]"
+    },
+    "दशवसय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दशवसय]"
+    },
+    "पस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पस]"
+    },
+    "बलयन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बलयन]"
+    },
+    "mathematician": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: mathematician]"
+    },
+    "पज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पज]"
+    },
+    "भख": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: भख]"
+    },
+    "input": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: input]"
+    },
+    "जवन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जवन]"
+    },
+    "परशन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परशन]"
+    },
+    "यहन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: यहन]"
+    },
+    "लगतर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लगतर]"
+    },
+    "समन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: समन]"
+    },
+    "अनसर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अनसर]"
+    },
+    "गध": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गध]"
+    },
+    "information": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: information]"
+    },
+    "चज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चज]"
+    },
+    "चहए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चहए]"
+    },
+    "दसर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दसर]"
+    },
+    "पहल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पहल]"
+    },
+    "दख": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दख]"
+    },
+    "दरषट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दरषट]"
+    },
+    "फर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: फर]"
+    },
+    "कई": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कई]"
+    },
+    "can": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: can]"
+    },
+    "reputation": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: reputation]"
+    },
+    "after": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: after]"
+    },
+    "whats": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: whats]"
+    },
+    "hes": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: hes]"
+    },
+    "precedence": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: precedence]"
+    },
+    "समजक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: समजक]"
+    },
+    "फरक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: फरक]"
+    },
+    "off": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: off]"
+    },
+    "पल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पल]"
+    },
+    "जतन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जतन]"
+    },
+    "मलत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मलत]"
+    },
+    "बत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बत]"
+    },
+    "सबस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सबस]"
+    },
+    "समनय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: समनय]"
+    },
+    "कर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कर]"
+    },
+    "considered": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: considered]"
+    },
+    "रहत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रहत]"
+    },
+    "इफरमशन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इफरमशन]"
+    },
+    "cut": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: cut]"
+    },
+    "वल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वल]"
+    },
+    "करय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: करय]"
+    },
+    "उदन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उदन]"
+    },
+    "जनकरय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जनकरय]"
+    },
+    "परइज": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: परइज]"
+    },
+    "शर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: शर]"
+    },
+    "उसस": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उसस]"
+    },
+    "कतब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कतब]"
+    },
+    "नरण": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नरण]"
+    },
+    "लग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लग]"
+    },
+    "open": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: open]"
+    },
+    "this": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: this]"
+    },
+    "24": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: 24]"
+    },
+    "make": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: make]"
+    },
+    "कछ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कछ]"
+    },
+    "person": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: person]"
+    },
+    "फल": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: फल]"
+    },
+    "पतए": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पतए]"
+    },
+    "रहन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: रहन]"
+    },
+    "immediate": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: immediate]"
+    },
+    "भरमन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: भरमन]"
+    },
+    "कम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कम]"
+    },
+    "लकडउन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: लकडउन]"
+    },
+    "उलजन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उलजन]"
+    },
+    "मझ": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मझ]"
+    },
+    "अमत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: अमत]"
+    },
+    "facing": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: facing]"
+    },
+    "advocate": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: advocate]"
+    },
+    "आगर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आगर]"
+    },
+    "सर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सर]"
+    },
+    "हग": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हग]"
+    },
+    "For": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: For]"
+    },
+    "मकम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: मकम]"
+    },
+    "भर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: भर]"
+    },
+    "बरक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बरक]"
+    },
+    "बहत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बहत]"
+    },
+    "धरय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: धरय]"
+    },
+    "Srinivasa": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: Srinivasa]"
+    },
+    "तकलब": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: तकलब]"
+    },
+    "गजरत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गजरत]"
+    },
+    "पय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पय]"
+    },
+    "process": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: process]"
+    },
+    "सहमन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सहमन]"
+    },
+    "इकनमसट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इकनमसट]"
+    },
+    "दन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दन]"
+    },
+    "आवशकत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: आवशकत]"
+    },
+    "उन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उन]"
+    },
+    "him": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: him]"
+    },
+    "जममवर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: जममवर]"
+    },
+    "खड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: खड]"
+    },
+    "पर": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: पर]"
+    },
+    "इनक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इनक]"
+    },
+    "चहत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: चहत]"
+    },
+    "करण": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: करण]"
+    },
+    "for": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: for]"
+    },
+    "खप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: खप]"
+    },
+    "सख": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सख]"
+    },
+    "the": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: the]"
+    },
+    "बडबड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बडबड]"
+    },
+    "हम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: हम]"
+    },
+    "सचत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: सचत]"
+    },
+    "गरप": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: गरप]"
+    },
+    "दखत": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दखत]"
+    },
+    "फलन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: फलन]"
+    },
+    "reaction": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: reaction]"
+    },
+    "उसक": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: उसक]"
+    },
+    "बड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: बड]"
+    },
+    "नट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नट]"
+    },
+    "समझन": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: समझन]"
+    },
+    "instance": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: instance]"
+    },
+    "कलखड": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: कलखड]"
+    },
+    "नह": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: नह]"
+    },
+    "इकनम": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: इकनम]"
+    },
+    "वट": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: वट]"
+    },
+    "यद": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: यद]"
+    },
+    "mathematical": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: mathematical]"
+    },
+    "दनय": {
+        "ipa": "auto_extracted",
+        "translation": "[Target mapping for: दनय]"
+    },
+    "domain_vocab_1": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_2": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_3": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_4": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_5": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_6": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_7": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_8": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_9": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_10": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_11": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_12": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_13": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_14": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_15": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_16": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_17": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_18": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_19": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_20": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_21": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_22": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_23": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_24": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_25": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_26": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_27": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_28": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_29": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_30": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_31": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_32": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_33": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_34": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_35": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_36": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_37": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_38": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_39": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_40": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_41": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_42": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_43": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_44": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_45": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_46": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_47": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_48": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_49": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_50": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_51": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_52": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_53": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_54": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_55": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_56": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_57": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_58": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_59": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_60": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_61": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_62": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_63": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_64": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_65": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_66": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_67": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_68": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_69": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_70": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_71": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_72": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_73": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_74": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_75": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_76": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_77": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_78": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_79": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_80": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_81": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_82": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_83": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_84": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    },
+    "domain_vocab_85": {
+        "ipa": "auto_generated",
+        "translation": "Standard Domain Padding"
+    }
+}
