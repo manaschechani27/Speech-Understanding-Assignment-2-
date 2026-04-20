@@ -106,13 +106,4 @@ All code follows the assignment rules (no generic ChatGPT wrappers). Custom logi
 ---
 
 Made with ❤️ for **Speech Understanding PA2**  
-**B22AI053**)  
-   
-
-**Note**:  
-All code follows the assignment rules (no generic ChatGPT wrappers). Custom logic for LID, N-gram constrained decoding, and prosody warping is implemented from scratch.
-
----
-
-Made with ❤️ for **Speech Understanding PA2**  
 **B22AI053**
