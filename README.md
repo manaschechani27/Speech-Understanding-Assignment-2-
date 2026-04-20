@@ -46,7 +46,7 @@ text**Note:** Large folders (`models/`, full `data/`, trained weights, original 
 
 3. **Full Project Files (Large files)**  
    Download the complete folder from here:  
-   **🔗 Google Drive Link:** [https://drive.google.com/drive/folders/YOUR_ACTUAL_LINK_HERE](# Speech Understanding - Programming Assignment 2  
+   **🔗 Google Drive Link:** [Drive Link](https://drive.google.com/drive/folders/1sjXwhCG9Cq-3sk9Mlo7VbJTAqnPS2PHP?usp=sharing)](# Speech Understanding - Programming Assignment 2  
 **Roll No: B22AI053**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/manaschechani27/Speech-Understanding-Assignment-2-)
